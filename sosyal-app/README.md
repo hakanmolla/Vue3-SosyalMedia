@@ -1,19 +1,6 @@
-# sosyal-app
+# Vuejs3TodoApp
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ekran Görüntüsü
+![Ekran Görüntüsü ](https://github.com/hakanmolla/Vuejs3TodoApp/blob/main/todo-app.jpg.png)
