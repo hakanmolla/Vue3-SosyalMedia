@@ -3,4 +3,4 @@
 
 
 ### Ekran Görüntüsü
-![Ekran Görüntüsü ](https://github.com/hakanmolla/Vuejs3TodoApp/blob/main/todo-app.jpg.png)
+![Ekran Görüntüsü ](https://github.com/hakanmolla/Vue3-SosyalMedia/blob/main/SosyalMedia.jpg)
